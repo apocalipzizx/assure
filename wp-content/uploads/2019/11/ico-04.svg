@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.684 109.684"><defs><style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #f14742;
+      }
+
+      .cls-4 {
+        fill: #fab9a7;
+      }
+
+      .cls-5 {
+        fill: #463836;
+      }
+    </style><clipPath id="clip-path"><path id="Path_3030" data-name="Path 3030" class="cls-1" d="M5.683,0H104a5.9,5.9,0,0,1,5.683,6.094v97.5A5.9,5.9,0,0,1,104,109.684H5.683A5.9,5.9,0,0,1,0,103.59V6.094A5.9,5.9,0,0,1,5.683,0Z" transform="translate(3688.221 -4408.269)"></path></clipPath></defs><g id="Mask_Group_16" data-name="Mask Group 16" class="cls-2" transform="translate(-3688.221 4408.269)"><g id="reportero-masculino" transform="translate(3714.026 -4391.608)"><g id="Group_875" data-name="Group 875" transform="translate(0 19.524)"><path id="Path_2301" data-name="Path 2301" class="cls-3" d="M54.258,132.438a6.087,6.087,0,0,0,0,12.174c.206,0,.4-.011.6-.031V132.469C54.661,132.449,54.464,132.438,54.258,132.438Z" transform="translate(-48.171 -132.438)"></path><path id="Path_2302" data-name="Path 2302" class="cls-3" d="M419.047,132.438a6.087,6.087,0,0,1,0,12.174c-.206,0-.4-.011-.6-.031V132.469C418.644,132.449,418.84,132.438,419.047,132.438Z" transform="translate(-363.858 -132.438)"></path><path id="Path_2303" data-name="Path 2303" class="cls-3" d="M112.725,364.675a30.346,30.346,0,0,0-59.906,0Z" transform="translate(-52.134 -308.72)"></path></g><circle id="Ellipse_88" data-name="Ellipse 88" class="cls-4" cx="19.524" cy="19.524" r="19.524" transform="translate(11.114 6.087)"></circle><path id="Path_2304" data-name="Path 2304" class="cls-5" d="M107.88,37.992H86.194a1.217,1.217,0,0,1-1.081-.659,25.611,25.611,0,1,1,45.535,0,1.217,1.217,0,0,1-2.163-1.118,22.871,22.871,0,0,0,2.572-10.6,23.176,23.176,0,0,0-46.353,0,22.863,22.863,0,0,0,2.244,9.946H107.88a1.218,1.218,0,0,1,0,2.435Z" transform="translate(-77.242)"></path></g></g></svg>
