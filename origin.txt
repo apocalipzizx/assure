@@ -1,0 +1,952 @@
+Uri: http://assure.pe/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/comments/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/sample-page/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\sample-page\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\css\element-pack-site.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.0.6
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.4.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.7.5
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.7.5
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.7.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\sticky-header-effects-for-elementor\assets\css\she-header-style.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/global.css?ver=1574896736
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-2.css?ver=1575429634
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-2.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-25.css?ver=1575250202
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-25.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-311.css?ver=1575411295
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-311.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/font-awesome.min.css?ver=4.7.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/cleverfont/style.min.css?ver=1.9
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\cleverfont\style.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/uploads/cmm4e/cmm4e-menu-skin-mega-menu.min.css?ver=1.0.5
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\cmm4e\cmm4e-menu-skin-mega-menu.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.9.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\index.json
+Content Type: application/json
+
+Uri: http://assure.pe/xmlrpc.php?rsd
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-includes/wlwmanifest.xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/cropped-favicon-32x32.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/cropped-favicon-192x192.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/cropped-favicon-180x180.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: http://assure.pe/nuestros-programas/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\nuestros-programas\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/programa-familiar/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\programa-familiar\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/programa-infantil/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\programa-infantil\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/programa-adulto-mayor/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\programa-adulto-mayor\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/programa-personal/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\programa-personal\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/promociones/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\promociones\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/centro-de-ayuda/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\centro-de-ayuda\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/noticias/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\noticias\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/preguntas-frecuentes/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\preguntas-frecuentes\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/afiliate-al-programa-familiar/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\afiliate-al-programa-familiar\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/afiliate-al-programa-adulto-mayor/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\afiliate-al-programa-adulto-mayor\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/afiliate-al-programa-infantil/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\afiliate-al-programa-infantil\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/unete-a-la-red/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\unete-a-la-red\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/uncategorized/gafas-de-realidad-aumentada-en-la-consulta-dental/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\gafas-de-realidad-aumentada-en-la-consulta-dental\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/uncategorized/como-mantener-una-boca-sana-en-verano/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\como-mantener-una-boca-sana-en-verano\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/uncategorized/por-que-tenemos-hipersensibilidad-dentinaria/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\por-que-tenemos-hipersensibilidad-dentinaria\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/uncategorized/hello-world/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\hello-world\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-107.css?ver=1574979668
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-107.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\js\revolution.tools.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.0.6
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\sticky-header-effects-for-elementor\assets\js\she-header.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-2020-logo-top-header.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-2020-logo-top-header.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-sub-1.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-sub-1.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-sub-2.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-sub-2.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-sub-3.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-sub-3.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-sub-4.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-sub-4.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\transparent.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/familia.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\familia.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/banner-niños-2020-xp.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\banner-niños-2020-xp.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/abuelos.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\abuelos.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-programa-familiar-home-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-programa-familiar-home-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-programa-infantil-home-2020-.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-programa-infantil-home-2020-.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-programa-adulto-mayor-home-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-programa-adulto-mayor-home-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-programa-personal-home-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-programa-personal-home-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-descanso-01.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-descanso-01.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/DR-home.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\DR-home.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/1-gafas-realidad-aumentada-300x150.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\1-gafas-realidad-aumentada-300x150.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/1-salud-bucal-verano-300x150.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\1-salud-bucal-verano-300x150.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/hipersensibilidad-dentinaria-300x150.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\hipersensibilidad-dentinaria-300x150.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/limpieza-dental-aparatos-300x150.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\limpieza-dental-aparatos-300x150.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-boton-whassap-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-boton-whassap-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-2020-logo-footer.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-2020-logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-mujer-contact.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-mujer-contact.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/thumbs/ico-1-ohn6im99xtqerkqvcyl2cb7xuwfca2qzza79ibttz4.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\thumbs\ico-1-ohn6im99xtqerkqvcyl2cb7xuwfca2qzza79ibttz4.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/frontend/js/cmm4e.min.js?ver=1.0.5
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\frontend\js\cmm4e.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-includes/js/wp-embed.min.js?ver=5.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-includes/js/imagesloaded.min.js?ver=3.2.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/js/bdt-uikit.min.js?ver=3.0.9
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\js\bdt-uikit.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.7.5
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.7.5
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/js/element-pack-site.min.js?ver=3.0.9
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\js\element-pack-site.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.7.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.7.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/1-gafas-realidad-aumentada.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\1-gafas-realidad-aumentada.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/1-salud-bucal-verano.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\1-salud-bucal-verano.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/hipersensibilidad-dentinaria.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\hipersensibilidad-dentinaria.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/limpieza-dental-aparatos.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\limpieza-dental-aparatos.jpg
+Content Type: image/jpeg
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/images/arrow-left.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\images\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/images/arrow-right.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\images\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/images/loading.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.4.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.4.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.4.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.4.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.4.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/AAA-home.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\AAA-home.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/B-home.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\B-home.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/C-home.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\C-home.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/cleverfont/fonts/cleversoft.eot?pkkuc
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\cleverfont\fonts\cleversoft.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/cleverfont/fonts/cleversoft.woff2?pkkuc
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\cleverfont\fonts\cleversoft.woff2
+Content Type: font/woff2
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/cleverfont/fonts/cleversoft.ttf?pkkuc
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\cleverfont\fonts\cleversoft.ttf
+Content Type: font/ttf
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/cleverfont/fonts/cleversoft.woff?pkkuc
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\cleverfont\fonts\cleversoft.woff
+Content Type: font/woff
+
+Uri: http://assure.pe/wp-content/plugins/clever-mega-menu-for-elementor-pro/assets/vendor/cleverfont/fonts/cleversoft.svg?pkkuc
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\clever-mega-menu-for-elementor-pro\assets\vendor\cleverfont\fonts\cleversoft.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://assure.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-12.css?ver=1575648554
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fnuestros-programas%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fnuestros-programas%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-308.css?ver=1575428466
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-308.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-familiar%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-familiar%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1180.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1180.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-prevencion-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-prevencion-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-ahorro-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-ahorro-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/assure-sonrisa-2020.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\assure-sonrisa-2020.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1180-280x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1180-280x300.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-751.css?ver=1575429423
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-751.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-infantil%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-infantil%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1215.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1215.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1215-300x263.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1215-300x263.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-744.css?ver=1576045921
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-744.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-adulto-mayor%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-adulto-mayor%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1212.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1212.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1212-300x285.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1212-300x285.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-763.css?ver=1575413207
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-763.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-personal%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fprograma-personal%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/afiliate-al-programa-personal/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\afiliate-al-programa-personal\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1217.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1217.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1217-291x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1217-291x300.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-15.css?ver=1575412736
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fpromociones%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fpromociones%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/thumbs/Group-688-ogu9cvmazs68beb7e1w5ng7sl0ywe0b5001uljby3e.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\thumbs\Group-688-ogu9cvmazs68beb7e1w5ng7sl0ywe0b5001uljby3e.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-688-300x261.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-688-300x261.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-01.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-02.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-02.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-03.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-03.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-04.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-04.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-688.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-688.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-01-300x140.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-01-300x140.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-01-1024x478.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-01-1024x478.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-01-768x358.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-01-768x358.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-02-300x284.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-02-300x284.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-03-300x284.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-03-300x284.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-04-300x140.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-04-300x140.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-04-1024x478.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-04-1024x478.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/PP-04-768x358.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\PP-04-768x358.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-468.css?ver=1575429873
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-468.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fcentro-de-ayuda%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fcentro-de-ayuda%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1201.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1201.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/RV-logo.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\RV-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-1201-300x218.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-1201-300x218.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-470.css?ver=1575428558
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-470.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fnoticias%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fnoticias%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-1183.css?ver=1575425776
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-1183.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fpreguntas-frecuentes%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fpreguntas-frecuentes%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-535.css?ver=1575429143
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-535.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-familiar%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-familiar%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/2019/11/Group-668.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\11\Group-668.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/plugins/bdthemes-element-pack-master/assets/js/bdt-uikit-icons.min.js?ver=3.0.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\bdthemes-element-pack-master\assets\js\bdt-uikit-icons.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-777.css?ver=1579739028
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-777.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-adulto-mayor%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-adulto-mayor%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/thumbs/Group-1222-ogvcm6s3gst1qway71p4t6sg33psgaxlqss30v7gu8.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\thumbs\Group-1222-ogvcm6s3gst1qway71p4t6sg33psgaxlqss30v7gu8.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-771.css?ver=1576045886
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-771.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-infantil%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-infantil%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/thumbs/Group-1223-ogvcuo9rfg3cfmhk2yp816nggxxklr0a95vzcy527c.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\thumbs\Group-1223-ogvcuo9rfg3cfmhk2yp816nggxxklr0a95vzcy527c.png
+Content Type: image/png
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-1189.css?ver=1575412685
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-1189.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funete-a-la-red%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funete-a-la-red%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/uncategorized/gafas-de-realidad-aumentada-en-la-consulta-dental/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\gafas-de-realidad-aumentada-en-la-consulta-dental\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-409.css?ver=1573934430
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-409.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fgafas-de-realidad-aumentada-en-la-consulta-dental%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fgafas-de-realidad-aumentada-en-la-consulta-dental%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/2019/11/12/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\2019\11\12\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/wp-content/plugins/elementor-pro/assets/lib/social-share/social-share.min.js?ver=0.2.17
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\plugins\elementor-pro\assets\lib\social-share\social-share.min.js
+Content Type: application/javascript
+
+Uri: http://assure.pe/uncategorized/como-mantener-una-boca-sana-en-verano/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\como-mantener-una-boca-sana-en-verano\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-405.css?ver=1573934545
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-405.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fcomo-mantener-una-boca-sana-en-verano%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fcomo-mantener-una-boca-sana-en-verano%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/uncategorized/por-que-tenemos-hipersensibilidad-dentinaria/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\por-que-tenemos-hipersensibilidad-dentinaria\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-396.css?ver=1573941409
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-396.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fpor-que-tenemos-hipersensibilidad-dentinaria%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fpor-que-tenemos-hipersensibilidad-dentinaria%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/uncategorized/hello-world/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\uncategorized\hello-world\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-1.css?ver=1573941407
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-1.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fhello-world%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Funcategorized%2Fhello-world%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/2019/11/07/
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\2019\11\07\index.htm
+Content Type: text/html
+
+Uri: http://assure.pe/wp-content/uploads/2019/12/D-homee-.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\2019\12\D-homee-.svg
+Content Type: image/svg+xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/css/post-785.css?ver=1575413218
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\css\post-785.css
+Content Type: text/css
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-personal%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://assure.pe/wp-json/oembed/1.0/embed?url=http:%2F%2Fassure.pe%2Fafiliate-al-programa-personal%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://assure.pe/wp-content/uploads/elementor/thumbs/Group-1224-ogvd2dk162ytp4sfo1ltr3q8dzxd0n76mx94kf7dog.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\assure.pe\wp-content\uploads\elementor\thumbs\Group-1224-ogvd2dk162ytp4sfo1ltr3q8dzxd0n76mx94kf7dog.png
+Content Type: image/png
+
